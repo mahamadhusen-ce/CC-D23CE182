@@ -1,4 +1,4 @@
-# CC-D23CE182
+# CC-D23CE182(MahamadHusen Kureshi)
 Compiler construction involves designing and implementing programs that translate source code into executable code using algorithms and techniques from computer science for optimization and problem-solving.
 # Compiler Construction
 
@@ -20,4 +20,4 @@ This project involves the design and implementation of a compiler that translate
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
+   git clone [https://github.com/mahamadhusen-ce/CC-D23CE182.git]
