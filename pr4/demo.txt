@@ -1,0 +1,3 @@
+I want to calculate a number. The number of characters, words and lines.
+All know that \n is ending character of line.
+45 + 89 = 40
